@@ -6,6 +6,8 @@ if(!User::loggedIn()){
 }
 ?> 
 
+
+
 <html>
 <head>
 	<title><?php echo CONFIG::SYSTEM_NAME; ?></title>

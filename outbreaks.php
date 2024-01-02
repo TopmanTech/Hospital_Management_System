@@ -6,6 +6,8 @@ if(!User::loggedIn()){
 }
 ?> 
 
+
+
 <html>
 <head>
 	<title>Outbreaks <?php echo CONFIG::SYSTEM_NAME; ?></title>
